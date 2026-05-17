@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a learning frontend developer & web designer from France ✨<br><br> ⚛️ I'm currently learning React<br>💻 I’m currently working on small fast-food page with React<br>🖌️ In my free time I like to draw, design, play videos games & other creative hobbies</p>
+<p align="left">I'm a learning frontend developer & web designer from France ✨</p>
 
 ###
 
