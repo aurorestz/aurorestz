@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a learning frontend developer & web designer from France ✨</p>
+<p align="left">I'm a learning frontend developer & web designer. </p>
 
 ###
 
